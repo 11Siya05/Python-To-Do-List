@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+    margin: 0%;
+}
+
+#cont{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 100vh;
+    color: white;
+}
+#date{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 6.5rem;
+    font-weight: bold;
+    text-align: center;
+
+}
+#time{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 6.5rem;
+    font-weight: bold;
+    text-align: center;
+    
+}
