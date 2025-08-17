@@ -13,7 +13,8 @@ This is a simple and elegant to-do list application built with Python's `tkinter
 
 ## 📸 Screenshot
 
-*(A screenshot of the application interface would go here)*
+![Uploading image.png…]()
+
 
 ## 🛠️ Requirements
 
